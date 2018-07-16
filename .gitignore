@@ -3,3 +3,4 @@
 .vagrant
 nbproject/
 docker-compose.yml
+config.phpr
