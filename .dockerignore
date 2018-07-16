@@ -15,7 +15,3 @@ storage.json
 
 /vendor
 nbproject/
-
-.vagrant
-vagrant
-Vagrantfile

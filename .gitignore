@@ -2,3 +2,4 @@
 /vendor
 .vagrant
 nbproject/
+docker-compose.yml
